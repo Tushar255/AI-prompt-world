@@ -1,21 +1,13 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+# This is a full stack Next.js 13 website.
 
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
- 
-In this video, you'll learn:
-- Next.js 13 App Folder Structure
-- Next.js 13 Client Components vs Server Components
-- Next.js 13 File-based Routing (including dynamic and nested routes)
-- Next.js 13 page, layout, loading, and error Special Files
-- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
-- Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
+### This allow users to create and share AI-Powered Prompts with others.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+### Example :-
+1. Suppose you are using Chatgpt and you want Chatgpt to behave like a web development menotor.
+2. So you need a prompt that will tell Chatgpt to behave like that.
+3. Since you need some special format of prompt to fully utilize the Chatgpt power, this website will help you.
+4. In this website you will find AI-powered prompts that is required to generate more accurate results.
+
+### Next.js 13.3.4 is used.
+### For styling, TailwindCSS is used.
+### For Database, MongoDB is used.
